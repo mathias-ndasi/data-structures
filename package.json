@@ -1,0 +1,21 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "Reviewing data structures with JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathias-ndasi/data-structures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathias-ndasi/data-structures/issues"
+  },
+  "homepage": "https://github.com/mathias-ndasi/data-structures#readme"
+}
